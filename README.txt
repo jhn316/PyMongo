@@ -1,0 +1,1 @@
+Build a simple blog using Python bottle and PyMongo as part of exercise for MongoDB for Python developers.
